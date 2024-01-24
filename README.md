@@ -1,1 +1,2 @@
-# membuat slider bootstrap carousel dengan php mysql
+# bootstrap-carousel
+membuat slider bootstrap carousel dengan php mysql
